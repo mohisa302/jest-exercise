@@ -1,2 +1,3 @@
 # jest-exercise
-simple Test in use of Jest library
+
+## simple Test cases in use of Jest library
